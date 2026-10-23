@@ -40,3 +40,49 @@ body {
     align-items: center;
     height: 200px;
 }
+
+.container {
+  font-family: "Lucida Console", "Courier New", monospace;  
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  height: 80%;
+}
+
+.product {
+  background-color: #ae8383; 
+  padding: 20px;
+  width: 100%;
+  box-sizing: border-box;
+  
+}
+
+.product img {
+    width: 100%;     
+    height: 500px;      
+    display: block;  
+    margin-bottom: 15px;
+}
+
+.product i {
+    height: 0px;
+    color: #7a5858e6;
+}
+
+.main {
+    flex: auto;
+    text-align: center;
+    justify-content: center;
+    gap: 20px;
+    
+    font-size: 20px;
+    font-family: "Lucida Console", "Courier New", monospace;  
+}
+
+.main img {
+    width: 90%;     
+    height: 500px;      
+    margin-bottom: 15px;
+}
