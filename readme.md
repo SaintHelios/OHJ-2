@@ -1,3 +1,4 @@
 # Ohjelmointiharjoitukset
 
-**1 & 2**
+**[Moduulit 1 & 2:](js/module-1-2)**
+wip
