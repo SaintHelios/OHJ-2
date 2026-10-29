@@ -4,9 +4,14 @@
 
 **[JS modules 1 and 2:](js/module-1-2)**
 
-- Task 1: 2p 
+- Task 1: 1p 
 - Task 2: 2p 
-- Task 3: 2p 
-- Task 4: 2p
+- Task 3: 3p 
+- Task 4: 3p
+- Task 4: 3p
+- Task 5: 3p
+- Task 6: 3p 
+- Task 7: 2p
+- Task 8: 3p
 
-**Total 8p**
+**Total 23p**
