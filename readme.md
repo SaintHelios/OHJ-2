@@ -15,3 +15,13 @@
 - Task 8: 3p
 
 **Total 23p**
+
+**[JS module 3](js/module-3/)**
+
+- Task 1: 2p
+- Task 2: 2p 
+- Task 3: 2p 
+- Task 4: 2p
+- Task 5: 2p
+
+**Total 10p**
