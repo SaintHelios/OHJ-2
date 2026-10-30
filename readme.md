@@ -16,7 +16,7 @@
 
 **Total 23p**
 
-**[JS module 3](js/module-3/)**
+**[JS module 3:](js/module-3/)**
 
 - Task 1: 2p
 - Task 2: 2p 
