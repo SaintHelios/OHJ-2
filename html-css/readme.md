@@ -1,5 +1,5 @@
 # Software 2
-# Comapny website assignment 
+# Company website assignment 
 
 Hosted @ https://sainthelios.github.io/OHJ-2/
 
