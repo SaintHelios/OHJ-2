@@ -53,6 +53,10 @@ article h2 {
   padding: 0 0 0.5rem 0;
 }
 
+article img {
+  width: 100%;
+}
+
 figure {
   margin: 0;
   text-align: center;

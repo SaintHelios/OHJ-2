@@ -93,3 +93,22 @@ const picArray = [
 ];
 
 // add your code here
+
+for (const x of picArray) {
+  const node = document.createElement("article");
+  
+  const header = document.createElement("h2");
+  header.innerText = `${x.title}`;
+
+  const image = document.createElement("img");
+  image.src = `${x.image["medium"]}`
+
+  const caption = document.createElement("caption");
+  caption.innerText = `${x.caption}`
+
+  const desc = document.createElement("p");
+  desc.innerText = `${x.description}`
+  
+  node.append(header, image, caption, desc);
+  document.getElementById("pictures").appendChild(node);
+}

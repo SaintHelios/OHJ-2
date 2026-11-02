@@ -1,4 +1,5 @@
 'use strict';
+
 const students = [
   {
     name: 'John',
@@ -13,3 +14,12 @@ const students = [
     id: '5423679',
   },
 ];
+
+
+for (const x of students) {
+  const node = document.createElement("option");
+  const foo = document.createTextNode(`${x.name}`);
+  node.appendChild(foo);
+  node.setAttribute("value", `${x.id}`);
+  document.getElementById("target").appendChild(node)
+}
