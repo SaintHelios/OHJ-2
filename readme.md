@@ -23,8 +23,13 @@
 - Task 3: 2p 
 - Task 4: 2p
 - Task 5: 2p
+- Task 6: 2p
+- Task 7: 2p
+- Task 8: 2p
+- Task 9: 3p
+- Task 10: 8p
 
-**Total 10p**
+**Total 27p**
 
 **[JS module 4:](js/module-4/)**
 
