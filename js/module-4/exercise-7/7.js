@@ -1,10 +1,12 @@
 'use strict';
 
-function ImageChange() {
-    const image = document.getElementById("target");
-    image.src = `img/picB.jpg`
-}
+const image = document.getElementById("target")
 
 const foo = document.getElementById("trigger");
-foo.addEventListener("pointerenter", ImageChange);
+foo.addEventListener("pointerenter", function (evt) {
+    image.src = `img/picB.jpg`
+});
 
+foo.addEventListener("mouseleave", function (evt) {
+    image.src = `img/picA.jpg`
+})
