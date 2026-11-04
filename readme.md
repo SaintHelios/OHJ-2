@@ -39,5 +39,7 @@
 - Task 3: 2p
 - Task 4: 2p
 - Task 5: 8p
+- Task 6: 1p
+- Task 7: 2p
 
-**Total 16p**
+**Total 19p**
